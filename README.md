@@ -16,10 +16,10 @@ Requirements:
 
 Installing in `~`:
 ```
-$ cd
-$ git clone git@github.com:KMint1819/.tmux.git
-$ ln -s -f .tmux/.tmux.conf
-$ cp .tmux/.tmux.conf.local .
+cd
+git clone git@github.com:KMint1819/.tmux.git
+ln -s -f .tmux/.tmux.conf
+cp .tmux/.tmux.conf.local .
 ```
 
 ❗️ You should never alter the main `.tmux.conf` or `tmux.conf` file. If you do,
